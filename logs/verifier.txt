@@ -23,3 +23,4 @@
 17:24:14 | status2=4089
 17:24:16 | blockhash2=3c2a2f3628d5db5c4df73b5d1da21ac668d5aaedd508a9e924b159b7b890b8b9
 18:24:11 | checkpoint=173516
+18:24:13 | status2=5139
